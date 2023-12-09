@@ -1,0 +1,141 @@
+Doctus 3.0
+( \0 64 7 4 3 0 7 0 0 49 0 )
+0 0
+( Zahtjev ( 0 )
+( 3 \0 \0 \0 )
+1 0 0
+\0
+( Veoma_nezadovoljavajuci Nezadovoljavajuci Zadovoljavajuci Vrlo_zadovoljavajuci )
+( \0 \0 \0 \0
+)
+1 ( 1 4 )
+( ( 4 4 )
+( 1 4 )
+)
+( 0 4 )
+( 0 4 0 1 2 2 2 3 3 )
+Snadbijevanje ( 0 )
+( 3 \0 \0 \0 )
+1 0 0
+\0
+( Bez_mreze Prijenosna_mreza Distributivna_mreza Druge_mreze )
+( \0 \0 \0 \0
+)
+1 ( 2 3 )
+( ( 2 3 )
+( 3 4 )
+)
+( 1 4 )
+( 1 4 3 3 3 3 3 2 3 )
+Kategorija ( 0 )
+( 3 \0 \0 \0 )
+1 0 0
+\0
+( Domacinstvo Ostala_potrosnja Javna_rasvjeta )
+( \0 \0 \0 )
+0 ( )
+( )
+( 2 3 )
+( 2 3 0 0 1 2 1 1 1 )
+Rezerva ( 0 )
+( 3 \0 \0 \0 )
+1 0 0
+\0
+( Nepostojeca Baterije Rezervni_snadbjevac Baterije_i_Rezervni_snadbjevac )
+( \0 \0 \0 \0
+)
+0 ( )
+( )
+( 3 4 )
+( 3 4 0 1 1 1 2 2 3 )
+Dokumentacija ( 0 )
+( 3 \0 \0 \0 )
+1 0 0
+\0
+( Nema Nepotpuna Potpuna Odobrena )
+( \0 \0 \0 \0
+)
+1 ( 5 6 )
+( ( 5 4 )
+( 6 4 )
+)
+( 4 4 )
+( 4 4 1 3 3 3 2 3 3 )
+Saglasnosti ( 0 )
+( 3 \0 \0 \0 )
+1 0 0
+\0
+( Nema Probna Urbanisticka Trajna )
+( \0 \0 \0 \0
+)
+0 ( )
+( )
+( 5 4 )
+( 5 4 0 3 3 2 2 3 3 )
+Dozvole ( 0 )
+( 3 \0 \0 \0 )
+1 0 0
+\0
+( Nema Gradjevinska Prikljucak Upotrebna )
+( \0 \0 \0 \0
+)
+0 ( )
+( )
+( 6 4 )
+( 6 4 0 3 3 3 3 3 3 )
+)
+( Kuca_#435 Kuca_#555 Televizijska_Stanica_A Javna_rasvjeta_ul._"XY" Prodavnica_sportske_opreme Auto_servis_B Studentski_dom )
+( \0 \0 \0 \0
+\0 \0 \0 )
+0 1 0 0 1.000000000000 3.000000000000 0.020000000000 1
+( ) ( 0 1 2 3 4 5 6 )
+1 0
+( 3 4 0.806200421066 1.277034259466 7.000000000000 f ( 1 4 2 8 )
+2 3 0.682908104400 1.277034259466 7.000000000000 7 ( 1 2 4 )
+5 3 0.682908104400 1.277034259466 7.000000000000 d ( 1 8 4 )
+6 2 0.410116318088 1.277034259466 7.000000000000 9 ( 1 8 )
+)
+( 1 -1
+( )
+( )
+1 -1
+( 5 2 0.693147180360 0.693147180560 2.000000000000 c ( 4 8 )
+)
+( )
+1 0
+( 2 3 0.636514168095 0.636514168295 3.000000000000 7 ( 1 6 )
+5 2 0.174416047722 0.636514168295 3.000000000000 c ( 4 8 )
+)
+( 1 -1
+( )
+( )
+1 -1
+( )
+( )
+)
+1 -1
+( )
+( )
+)
+
+0 0 1 0 ( 0 ) ( 0 )
+0 1 1 1 0 1 0 ( )
+3 0 0 0 0 0 0 0 3 0 0 0 1 ( ) ( )
+0 0 1 0 1 1
+3 0 0 0 0 0 0 0 -1
+Arial 0 100 0 0 \0 \0
+Arial 0 100 0 0 70_0_8_189_340_451_570_702_826_951_1070 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 140 0 0 \0 \0
+Arial 0 90 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 140 0 0 \0 \0
+Arial 0 90 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
+Arial 0 120 0 0 \0 \0
+Arial 0 100 0 0 \0 \0
